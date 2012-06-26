@@ -1,2 +1,41 @@
 /* filename: 5pm.css */
 /* repository: https://github.com/predication/5pm */
+
+body {
+  background: #abcdef; 
+  color: white;
+}
+
+h1 {
+  color: navy;  
+}
+
+.div_Title {
+  width: 500px;
+  border-left: auto;
+  border-right: auto;
+}
+
+.div_Intro {
+  border: 1px solid white;
+  width: 500px;
+  border-left: auto;
+  border-right: auto;
+}
+
+.div_Tracks {
+  border: 1px dashed white;
+  width: 500px;
+  border-left: auto;
+  border-right: auto;
+}
+
+.div_Outro {
+  border: 1px dashed navy;
+  width: 500px;
+  border-left: auto;
+  border-right: auto;
+}
+
+
+
