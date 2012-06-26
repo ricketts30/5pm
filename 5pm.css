@@ -2,8 +2,8 @@
 /* repository: https://github.com/predication/5pm */
 
 body {
-  background: #abcdef; 
-  color: white;
+  background: white; 
+  color: navy;
 }
 
 h1 {
@@ -11,26 +11,30 @@ h1 {
 }
 
 .div_Title {
+  text-align: center;
   width: 500px;
   border-left: auto;
   border-right: auto;
 }
 
 .div_Intro {
-  border: 1px solid white;
+  text-align: center;
+  border: 1px solid navy;
   width: 500px;
   border-left: auto;
   border-right: auto;
 }
 
 .div_Tracks {
-  border: 1px dashed white;
+  text-align: center;
+  border: 1px dashed black;
   width: 500px;
   border-left: auto;
   border-right: auto;
 }
 
 .div_Outro {
+  text-align: center;
   border: 1px dashed navy;
   width: 500px;
   border-left: auto;
