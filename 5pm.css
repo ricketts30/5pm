@@ -13,32 +13,32 @@ h1 {
 .div_Title {
   text-align: center;
   width: 500px;
-  border-left: auto;
-  border-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .div_Intro {
   text-align: center;
   border: 1px solid navy;
   width: 500px;
-  border-left: auto;
-  border-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .div_Tracks {
   text-align: center;
   border: 1px dashed black;
   width: 500px;
-  border-left: auto;
-  border-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .div_Outro {
   text-align: center;
   border: 1px dashed navy;
   width: 500px;
-  border-left: auto;
-  border-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
