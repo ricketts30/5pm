@@ -2,43 +2,90 @@
 /* repository: https://github.com/predication/5pm */
 
 body {
-  background: white; 
-  color: navy;
+	background: silver; 
+	color: black;
+	font-family: sans-serif;
 }
 
 h1 {
-  color: navy;  
+	color: #888;  
+}
+
+.span_Ironic {
+	font-style: italic;
+	color: #333;
 }
 
 .div_Title {
-  text-align: center;
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+	background: white;
+	text-align: center;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 5px #888;
+	border-radius: 5px;
+}
+
+.div_Title h1{
+	margin-bottom: 0px;
+	padding-top: 10px;
+}
+
+.div_Title p {
+	text-align: center;
+	margin-top: 0px;
+	padding-bottom: 10px;
+	padding-top: 0px;
+	font-style: italic;
+	margin-bottom: 10px;
 }
 
 .div_Intro {
-  text-align: center;
-  border: 1px solid navy;
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+	background: white;
+	text-align: left;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	box-shadow: 10px 10px 5px #888;
+	border-radius: 5px;
+}
+
+.div_Intro  p {
+	padding: 10px;
 }
 
 .div_Tracks {
-  text-align: center;
-  border: 1px dashed black;
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+	background: white;
+	text-align: center;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	box-shadow: 10px 10px 5px #888;
+	border-radius: 5px;
+}
+
+.div_SoundCloud iframe {
+	margin: 3px;
+	border: 0px solid white;
+	height: 166px;
+	width: 90%;
 }
 
 .div_Outro {
-  text-align: center;
-  border: 1px dashed navy;
-  width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+	background: white;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	box-shadow: 10px 10px 5px #888;
+	border-radius: 5px;
+}
+
+.div_Outro p {
+	text-align: center;
+	padding: 10px;
 }
 
 
