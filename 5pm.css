@@ -2,7 +2,9 @@
 /* repository: https://github.com/predication/5pm */
 
 body {
-	background: silver; 
+	background-image: url(sunrise-in-louisiana.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%; 
 	color: black;
 	font-family: sans-serif;
 }
@@ -22,7 +24,7 @@ h1 {
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
-	box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
 	border-radius: 5px;
 }
 
@@ -42,12 +44,12 @@ h1 {
 
 .div_Intro {
 	background: white;
-	text-align: left;
+	text-align: center;
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
-	box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
 	border-radius: 5px;
 }
 
@@ -62,7 +64,7 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
-	box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
 	border-radius: 5px;
 }
 
@@ -79,7 +81,7 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
-	box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
 	border-radius: 5px;
 }
 
